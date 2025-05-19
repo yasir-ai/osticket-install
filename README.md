@@ -12,7 +12,7 @@
 
 - [🧰 Prerequisites](#-prerequisites)  
 - [🚀 Setup Azure VM](#-setting-up-your-azure-vm)  
-- [🔧 Configure IIS & PHP](#-configure-iis--php-within-the-vm)  Configure IIS & PHP within the VM
+- [🔧 Configure IIS & PHP](#-configure-iis--php-within-the-vm)
 - [🐘 Database Setup](#-mysql-database-setup)
 - [🎉 Finalize Installation](#-finalizing-the-installation)
 - [👍 Cleanup](#-cleanup-(helps-eliminate-security-risks-and-keeps-everything-tidy))

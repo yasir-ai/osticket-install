@@ -11,11 +11,11 @@
 ## 📋 Table of Contents
 
 - [🧰 Prerequisites](#-prerequisites)  
-- [🚀 Setup Azure VM](#-setup-azure-vm)  
-- [🔧 Configure IIS & PHP](#-configure-iis--php)  
-- [🐘 Database Setup](#-database-setup)  
-- [🎉 Finalize Installation](#-finalize-installation)  
-- [👍 Cleanup](#-cleanup)  
+- [🚀 Setup Azure VM](#-setting-up-your-azure-vm)  
+- [🔧 Configure IIS & PHP](#-configure-iis--php-within-the-vm)  Configure IIS & PHP within the VM
+- [🐘 Database Setup](#-mysql-database-setup)
+- [🎉 Finalize Installation](#-finalizing-the-installation)
+- [👍 Cleanup](#-cleanup-(helps-eliminate-security-risks-and-keeps-everything-tidy))
 
 ---
 
